@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="4style.css"?>
+<STUDENTDATA>
+	<STUDENT>
+		<USN>1TD24CS286</USN>
+		<NAME>Spoorti S Poojar</NAME>
+		<COLLEGE>BMSIT</COLLEGE>
+		<PROGRAMME>CSE</PROGRAMME>
+		<YEAR>2024</YEAR>
+		<EMAIL>spoortispoojar@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>1BY24CS303</USN>
+		<NAME>Tanmaya K J</NAME>
+		<COLLEGE>BMSIT</COLLEGE>
+		<PROGRAMME>CSE</PROGRAMME>
+		<YEAR>2024</YEAR>
+		<EMAIL>tanmayakj@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>1BY24CS282</USN>
+		<NAME>Spandana S</NAME>
+		<COLLEGE>BMSIT</COLLEGE>
+		<PROGRAMME>CSE</PROGRAMME>
+		<YEAR>2024</YEAR>
+		<EMAIL>spandanas@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>1BY24CS222</USN>
+		<NAME>Rachitha B</NAME>
+		<COLLEGE>BMSIT</COLLEGE>
+		<PROGRAMME>CSE</PROGRAMME>
+		<YEAR>2024</YEAR>
+		<EMAIL>rachithab@gmail.com</EMAIL>
+	</STUDENT>
+</STUDENTDATA>
